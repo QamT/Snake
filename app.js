@@ -11,7 +11,6 @@ class Snake {
     this.height = 15;
     this.length = 5;
     this.direction = 'right';
-    this.gameOver = false;
     this.body = [];
     this.game = game;
 
